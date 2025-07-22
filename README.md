@@ -75,16 +75,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankhyayan-dey&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankhyayan-dey&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankhyayan-dey&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sankhyayan-dey&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhyayan-dey" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhyayan-dey&theme=transparent" alt="GitHub Streak" />
 </p>
+
 
 
 <!--Footer-->
