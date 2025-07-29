@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sankhyayand001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w2Ymijsg1HciggOc2tfCb5X2ueB0gtTB/view?usp=sharing](https://drive.google.com/file/d/1w2Ymijsg1HciggOc2tfCb5X2ueB0gtTB/view?usp=sharing)
+- 📄 Know about my experiences [Click ME!](https://drive.google.com/file/d/1i3ATs7W8vqKXrdPup7ySaO1AlP8cDNHx/view?usp=drive_link)
 
 <br>
 <br>
