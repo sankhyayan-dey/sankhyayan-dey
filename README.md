@@ -20,7 +20,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <!--Connect with me (social links)-->
 <h2 align="left">🔗 Connect with me:</h2>
@@ -88,7 +87,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhyayan-dey&theme=transparent" alt="GitHub Streak" />
 </p>
 
-
+<br>
 
 <!--Footer-->
 <p align="center">
