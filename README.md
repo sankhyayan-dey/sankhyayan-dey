@@ -86,10 +86,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhyayan-dey&theme=transparent" alt="GitHub Streak" />
 </p>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
 
 <!--Footer-->
 <p align="center">
