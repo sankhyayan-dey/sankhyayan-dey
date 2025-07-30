@@ -19,7 +19,6 @@
 
 <br>
 <br>
-<br>
 
 <!--Connect with me (social links)-->
 <h2 align="left">🔗 Connect with me:</h2>
@@ -88,6 +87,7 @@
 </p>
 
 <br>
+
 
 <!--Footer-->
 <p align="center">
