@@ -1,22 +1,25 @@
-<h1 align="center">Hello! I'm Sankhyayan Dey</h1>
+<!-- HERO -->
 
-<h3 align="center">🎓 Computer Science Undergrad from Kolkata | 🔐 Aspiring Cybersecurity Analyst <br> 
-👨‍🏫 Tech Mentor for school students (3+ years of experience)</h3>
+<h1 align="center">Sankhyayan Dey</h1>
 
-<h4 align="left">I love blending technology with creativity — from building clean, responsive web projects to diving into cybersecurity and ethical hacking. With a strong foundation in Java and Python, and a background in teaching computer science, I bring both clarity and curiosity to my work.</h4>
+<h3 align="center">
+Computer Science Graduate
+</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<h3 align="center">
+Focused on Cybersecurity • Linux • Network Security • Python Automation
+</h3>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhyayan-dey&label=Profile%20views&color=0e75b6&style=flat" alt="sankhyayan-dey" /> </p>
+<!-- ABOUT -->
 
-- 🌱 I’m currently learning **React and React Native**
+## About
 
-- 💬 Ask me about **Java, Python**
+I'm a Computer Science graduate focused on cybersecurity, network security, Linux, and Python automation. I enjoy building practical security-focused projects that deepen my understanding of systems, networking, and secure software.
 
-- 📫 How to reach me **sankhyayand001@gmail.com**
+Alongside my technical journey, I bring over four years of experience as a Technical Educator, teaching Computer Science and Science to students from Classes 5 - 10. This experience has strengthened my communication, structured thinking, and ability to simplify complex technical concepts with clarity.
 
-- 📄 Know about my experiences [Click ME!](https://drive.google.com/file/d/1O_0BCwO7aJ0c_tk3auWLl_Iri9SYBT9P/view?usp=sharing)
-
+This GitHub serves as a collection of the projects, experiments, and tools that reflect my technical growth and interest in building practical cybersecurity solutions.
 <br>
 <br>
 
