@@ -2,97 +2,150 @@
 
 <h1 align="center">Sankhyayan Dey</h1>
 
-<h3 align="center">
-Computer Science Graduate
-</h3>
+<p align="center">
+  <b>Computer Science Graduate</b>
+</p>
 
-<h3 align="center">
-Focused on Cybersecurity • Linux • Network Security • Python Automation
-</h3>
-<br>
+<p align="center">
+  Cybersecurity • Network Security • Linux • Python Automation
+</p>
+
+---
 
 <!-- ABOUT -->
 
 ## About
 
-I'm a Computer Science graduate focused on cybersecurity, network security, Linux, and Python automation. I enjoy building practical security-focused projects that deepen my understanding of systems, networking, and secure software.
+I'm a Computer Science graduate with interests in cybersecurity, Linux, networking, and Python automation. I enjoy developing practical tools that strengthen my understanding of secure systems, networking, and real-world problem solving.
 
-Alongside my technical journey, I bring over four years of experience as a Technical Educator, teaching Computer Science and Science to students from Classes 5 - 10. This experience has strengthened my communication, structured thinking, and ability to simplify complex technical concepts with clarity.
+Alongside my technical journey, I bring over four years of experience as a Technical Educator, teaching Computer Science and Science to students from Classes 5 - 10. This experience has strengthened my communication, structured thinking, and ability to explain technical concepts with clarity.
 
-This GitHub serves as a collection of the projects, experiments, and tools that reflect my technical growth and interest in building practical cybersecurity solutions.
+This GitHub showcases the projects, experiments, and tools that reflect my technical growth and evolving focus on cybersecurity.
+
 <br>
-<br>
 
-<!--Connect with me (social links)-->
-<h2 align="left">🔗 Connect with me:</h2>
+<!-- CURRENT FOCUS -->
 
-<p align="left">
-  <a href="https://linkedin.com/in/sankhyayan-dey" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/sankx007" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sankx._" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/sankhyayand001" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sankhyayan" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+## Current Focus
+
+- Building practical cybersecurity tools with Python
+- Exploring Linux system administration and Bash scripting
+- Studying networking, system security, and defensive security concepts
+- Expanding hands-on experience through real-world cybersecurity projects
+
+---
+
+<!-- FEATURED PROJECTS -->
+
+## Featured Projects
+
+### [Network Device Scanner](https://github.com/sankhyayan-dey/cyber-portfolio/tree/main/networkDeviceScanner)
+ARP-based network scanner with vendor identification and scan history tracking.
+
+**Stack:** Python • Scapy • CSV • Networking
+
+### [Live Cyber Threat Dashboard](https://github.com/sankhyayan-dey/cyber-portfolio/tree/main/threat-dashboard)
+Retrieves and visualizes High & Critical CVEs from the NVD API.
+
+**Stack:** Python • REST API • JSON
+
+### [FrostKey MK-I](https://github.com/sankhyayan-dey/frostkey-extension)
+Privacy-first Chrome extension for password analysis and secure password generation.
+
+**Stack:** Python • JavaScript • HTML • CSS • Pyodide • WebAssembly
+
+---
+
+<!-- TECH STACK -->
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
+### Operating Systems
 
-<!--Languages and Tools-->
-<h2 align="left">🛠️ Languages and Tools:</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+### Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Networking & Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-Python-3776AB?style=for-the-badge" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+
+- Security Engineering
+- Python Automation
+- Linux Administration
+- Network Security
+- Defensive Security
+- Bash Scripting
+
+<!-- GITHUB ACTIVITY -->
+
+## GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sankhyayan-dey&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhyayan-dey&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=sankhyayan-dey&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
+<!-- CONTACT -->
+
+## Contact
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankhyayan-dey&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+  <a href="https://linkedin.com/in/sankhyayan-dey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:sankhyayand001@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankhyayan-dey&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+  <a href="https://drive.google.com/file/d/1FbIbvVicb4bO1TGWvlsbbnrarO8ehyeb/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+<b>Secure systems.</b> <b>Practical solutions.</b> <b>Continuous learning.</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhyayan-dey&theme=transparent" alt="GitHub Streak" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-<br/>
-<br/>
-
-<!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=sankhyayan-dey&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
